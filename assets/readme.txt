@@ -7,3 +7,5 @@ support armb-64x
 jika anda menemukan bug atau error pada apl ini silahkan hubungi saya di github
 
 username: Dabilines 
+link: https://github.com/Dabilines
+wa.me/6285194993977
