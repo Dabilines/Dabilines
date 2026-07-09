@@ -9,3 +9,5 @@ jika anda menemukan bug atau error pada apl ini silahkan hubungi saya di github
 username: Dabilines 
 link: https://github.com/Dabilines
 wa.me/6285194993977
+
+![update:(1.0.0)]
