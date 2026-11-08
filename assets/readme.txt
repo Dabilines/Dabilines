@@ -1,13 +1,12 @@
-Hi everyone
+𝐃𝐚𝐛𝐢-𝐀𝐢 𝐕𝐞𝐫𝐬𝐢 𝐀𝐏𝐊 (𝐃𝐞𝐦𝐨)
 
-ini adalah Dabi-Ai Versi Apl, untuk membantu anda mendownload media dari berbagai platform
+𝐕𝐞𝐫𝐬𝐢𝐨𝐧 : 𝐃𝐞𝐦𝐨
+𝐒𝐭𝐚𝐭𝐮𝐬 : 𝐏𝐮𝐛𝐥𝐢𝐜 𝐓𝐞𝐬𝐭
+𝐒𝐮𝐩𝐩𝐨𝐫𝐭 : 𝐀𝐑𝐌𝐁-𝟔𝟒𝐱
 
-support armb-64x
+𝐍𝐨𝐭𝐞 :
+𝐈𝐧𝐢 𝐚𝐝𝐚𝐥𝐚𝐡 𝐯𝐞𝐫𝐬𝐢 𝐝𝐞𝐦𝐨 𝐝𝐚𝐫𝐢 𝐃𝐚𝐛𝐢-𝐀𝐢. 𝐌𝐚𝐬𝐢𝐡 𝐝𝐚𝐥𝐚𝐦 𝐭𝐚𝐡𝐚𝐩 𝐩𝐞𝐧𝐠𝐞𝐦𝐛𝐚𝐧𝐠𝐚𝐧, 𝐣𝐚𝐝𝐢 𝐦𝐮𝐧𝐠𝐤𝐢𝐧 𝐦𝐚𝐬𝐢𝐡 𝐚𝐝𝐚 𝐛𝐮𝐠 𝐚𝐭𝐚𝐮 𝐟𝐢𝐭𝐮𝐫 𝐲𝐚𝐧𝐠 𝐛𝐞𝐥𝐮𝐦 𝐬𝐞𝐦𝐩𝐮𝐫𝐧𝐚.
 
-jika anda menemukan bug atau error pada apl ini silahkan hubungi saya di github
+𝐁𝐞𝐫𝐢𝐤𝐚𝐧 𝐬𝐚𝐫𝐚𝐧 𝐝𝐚𝐧 𝐤𝐫𝐢𝐭𝐢𝐤 𝐦𝐞𝐧𝐠𝐞𝐧𝐚𝐢 𝐟𝐢𝐭𝐮𝐫 𝐃𝐚𝐛𝐢-𝐀𝐢 𝐤𝐞 𝐎𝐛𝐫𝐨𝐥𝐚𝐧 𝐆𝐥𝐨𝐛𝐚𝐥 𝐚𝐠𝐚𝐫 𝐝𝐚𝐩𝐚𝐭 𝐭𝐞𝐫𝐮𝐬 𝐝𝐢𝐤𝐞𝐦𝐛𝐚𝐧𝐠𝐤𝐚𝐧.
 
-username: Dabilines 
-link: https://github.com/Dabilines
-wa.me/6285194993977
-
-![update:(2472026-testing)]
+𝐃𝐮𝐤𝐮𝐧𝐠 𝐃𝐚𝐛𝐢 𝐮𝐧𝐭𝐮𝐤 𝐭𝐞𝐫𝐮𝐬 𝐛𝐞𝐫𝐤𝐞𝐦𝐛𝐚𝐧𝐠.
